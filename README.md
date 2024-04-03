@@ -34,4 +34,12 @@ Deploy: https://nextjs-dashboard-ivory-two-21.vercel.app/
 * The data requests are unintentionally blocking each other, creating a **request waterfall**.
 * [play.tailwindcss.com](https://play.tailwindcss.com/)
 * [Revalidating Data](https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating#revalidating-data)
+* [Route Groups](https://nextjs.org/docs/app/building-your-application/routing/route-groups)
+* [Partial Prerendering](https://www.partialprerendering.com/): Combining Static and [Dynamic Content](https://nextjs.org/docs/app/building-your-application/routing/route-handlers#dynamic-functions)
+*  [Concurrent APIs](https://react.dev/blog/2021/12/17/react-conf-2021-recap#react-18-and-concurrent-features) 
+* [Partial Prerendering](https://nextjs.org/docs/app/api-reference/next-config-js/partial-prerendering) (experimental), vercel.com [Partial Prerendering](https://vercel.com/templates/next.js/partial-prerendering-nextjs)
+* 
+
+
+
 
