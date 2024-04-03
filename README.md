@@ -6,6 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 Deploy: https://nextjs-dashboard-ivory-two-21.vercel.app/
 
+
 * [React Foundations](https://nextjs.org/learn/react-foundations)
 * https://mockapi.io/
 * [create-next-app](https://nextjs.org/docs/app/api-reference/create-next-app)
@@ -31,5 +32,6 @@ Deploy: https://nextjs-dashboard-ivory-two-21.vercel.app/
 * [Vercel Postgres SDK](https://vercel.com/docs/storage/vercel-postgres/sdk)
 * [SQL injections](https://nextjs.org/learn/dashboard-app/fetching-data)
 * The data requests are unintentionally blocking each other, creating a **request waterfall**.
-* 
+* [play.tailwindcss.com](https://play.tailwindcss.com/)
+* [Revalidating Data](https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating#revalidating-data)
 
