@@ -12,6 +12,7 @@ Deploy: https://nextjs-dashboard-ivory-two-21.vercel.app/
 * [create-next-app](https://nextjs.org/docs/app/api-reference/create-next-app)
 * [TypeScript](https://nextjs.org/docs/app/building-your-application/configuring/typescript#typescript-plugin)
 * [Utility-First Fundamentals](https://tailwindcss.com/docs/utility-first)
+* [heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 * [Cumulative Layout Shift](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
 * [subset](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
 * [Static Assets](https://nextjs.org/docs/app/building-your-application/optimizing/static-assets) in `public`
@@ -38,6 +39,7 @@ Deploy: https://nextjs-dashboard-ivory-two-21.vercel.app/
 * [Partial Prerendering](https://www.partialprerendering.com/): Combining Static and [Dynamic Content](https://nextjs.org/docs/app/building-your-application/routing/route-handlers#dynamic-functions)
 *  [Concurrent APIs](https://react.dev/blog/2021/12/17/react-conf-2021-recap#react-18-and-concurrent-features) 
 * [Partial Prerendering](https://nextjs.org/docs/app/api-reference/next-config-js/partial-prerendering) (experimental), vercel.com [Partial Prerendering](https://vercel.com/templates/next.js/partial-prerendering-nextjs)
+* [useRouter](https://nextjs.org/docs/app/api-reference/functions/use-router#userouter), [useSearchParams](https://nextjs.org/docs/app/api-reference/functions/use-search-params), [usePathname](https://nextjs.org/docs/app/api-reference/functions/use-pathname)
 * 
 
 
