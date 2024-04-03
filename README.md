@@ -4,6 +4,8 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
+Deploy: https://nextjs-dashboard-ivory-two-21.vercel.app/
+
 * [React Foundations](https://nextjs.org/learn/react-foundations)
 * https://mockapi.io/
 * [create-next-app](https://nextjs.org/docs/app/api-reference/create-next-app)
@@ -23,5 +25,11 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 * [partial rendering](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#3-partial-rendering)
 * [root layout](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts#root-layout-required)
 * [client-side navigation](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#how-routing-and-navigation-works)
+* [Route Handlers](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
+* [relational databases](https://aws.amazon.com/ru/relational-database/)
+* [ORM](https://vercel.com/docs/storage/vercel-postgres/using-an-orm) like [Prisma](https://www.prisma.io/)
+* [Vercel Postgres SDK](https://vercel.com/docs/storage/vercel-postgres/sdk)
+* [SQL injections](https://nextjs.org/learn/dashboard-app/fetching-data)
+* The data requests are unintentionally blocking each other, creating a **request waterfall**.
 * 
 

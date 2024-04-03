@@ -11,7 +11,8 @@
     "lint": "next lint",
     "lint:fix": "eslint --fix --ext .js --ext .jsx --ext .ts --ext .tsx ./",
     "format": "prettier --write \"./**/*.{ts,tsx,css}\"",
-    "prepublish": "npm run lint:fix"
+    "prepublish": "npm run lint:fix",
+    "seed": "node -r dotenv/config ./scripts/seed.js"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
